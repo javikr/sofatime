@@ -1,3 +1,5 @@
+<img src="https://www.sofatime.app/assets/images/logo_web.png" width="120" height="120">
+
 # Sofa Time
 Sofa Time is a full-featured app that helps you to keep tracking of any tv show or movie you are watching now and discover new ones.
 https://apps.apple.com/app/sofa-time-tv-shows-movies/id1491037404
