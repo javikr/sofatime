@@ -1,4 +1,4 @@
-<img src="https://www.sofatime.app/assets/images/logo_web.png" width="120" height="120">
+<img src="https://www.sofatime.app/assets/images/logo_web.png" width="120" height="134">
 
 # Sofa Time
 Sofa Time is a full-featured app that helps you to keep tracking of any tv show or movie you are watching now and discover new ones.
